@@ -1,0 +1,13 @@
+.options {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  width: 100%;
+}
+.options * {
+  border-color: brown;
+  color: brown;
+}
